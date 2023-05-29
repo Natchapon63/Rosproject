@@ -1,0 +1,8 @@
+prefix=/home/natchapon/rosproject/install
+
+Name: abcd
+Description: Description of abcd
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

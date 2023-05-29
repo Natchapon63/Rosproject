@@ -1,0 +1,2 @@
+abcd
+-DCATKIN_DEVEL_PREFIX=/home/natchapon/rosproject/devel -DCMAKE_INSTALL_PREFIX=/home/natchapon/rosproject/install -G Unix Makefiles
